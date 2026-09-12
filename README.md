@@ -1,1 +1,1 @@
-# ai-applications-lab
+# analytical-ai-loan-sanction
