@@ -1,0 +1,19 @@
+{
+    "model_name": "Credit Sanction Logistic Regression",
+    "model_version": "1.0",
+    "threshold": 0.77,
+    "features": [
+        "Tier_1",
+        "Tier_2",
+        "AccoClass",
+        "Etype",
+        "eom_25",
+        "LTV",
+        "mfoir_p",
+        "dwnp_prop_p",
+        "banksave_s"
+    ],
+    "statsmodels_version": "0.15.0",
+    "pandas_version": "2.2.3",
+    "numpy_version": "2.1.3"
+}
